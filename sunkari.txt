@@ -1,1 +1,1 @@
-this is mysecond git file 
+ECHO is on.
